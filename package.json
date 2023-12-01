@@ -1,5 +1,5 @@
 {
-  "name": "ecdsasecp256k1verificationkey2019",
+  "name": "@hypersign-protocol/ecdsasecp256k1verificationkey2019",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
